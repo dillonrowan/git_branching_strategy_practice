@@ -16,11 +16,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-<<<<<<< HEAD
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-=======
                 <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
->>>>>>> feature/new-feature
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,8 +34,6 @@
       <projects_view />
     </option>
   </component>
-<<<<<<< HEAD
-=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -47,7 +41,6 @@
       </list>
     </option>
   </component>
->>>>>>> feature/new-feature
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -94,16 +87,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-=======
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> feature/new-feature
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,30 +195,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="3276a0ae-22c3-4cac-bbf5-9a2ea3101f12" name="Default" comment="" />
-      <created>1530493501085</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1530493501085</updated>
-      <workItem from="1530493504886" duration="34000" />
-=======
       <changelist id="d4175a37-5a18-4a5f-9d38-aa81d2fd384b" name="Default" comment="" />
       <created>1530492610708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530492610708</updated>
       <workItem from="1530492611912" duration="682000" />
->>>>>>> feature/new-feature
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="151000" />
-=======
     <option name="totallyTimeSpent" value="685000" />
->>>>>>> feature/new-feature
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -287,8 +261,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -316,6 +288,5 @@
         </settings>
       </state>
     </states>
->>>>>>> feature/new-feature
   </component>
 </project>
